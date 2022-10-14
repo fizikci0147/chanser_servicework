@@ -1,0 +1,24 @@
+1) Defining topology dependent behaviour
+
+
+….so will be repalaced —>replaced
+
+ will be different for differnt topologies—>different
+
+
+Configuring an analysis
+
+
+you would like for this conficuration a —> configuration
+
+
+ which ROOT is respnsible—>responsible 
+
+
+Particle cuts
+
+
+
+example you could hae one with —>have
+
+
